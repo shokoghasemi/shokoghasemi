@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+TypeScript JavaScript HTML5 CSS3 Sass Less React Next.js Git Webpack NPM React GitHub
+
 <!--
 **shokoghasemi/shokoghasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
