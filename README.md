@@ -6,11 +6,10 @@ LinkedIn
 
 💻 Tech Stack:
 TypeScript javascript HTML5 CSS3 Sass Less React Next.js Git Webpack NPM React GitHub
-## 🖥️ Tech Stack
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) **React**
-![Next.js Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Nextjs-logo.svg) **Next.js**
-![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/TypeScript_logo_2020.svg) **TypeScript**
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 
 <!--
 **shokoghasemi/shokoghasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
