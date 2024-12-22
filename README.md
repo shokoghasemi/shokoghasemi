@@ -7,7 +7,7 @@ LinkedIn
 💻 Tech Stack:
 TypeScript javascript HTML5 CSS3 Sass Less React Next.js Git Webpack NPM React GitHub
 
-![React Badge](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=blue)
+![React Badge](https://img.shields.io/badge/React-282c34?style=flat&logo=react&logoColor=61dafb)
 ![javascript Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-red?logo=HTML5&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
