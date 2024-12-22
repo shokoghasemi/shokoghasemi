@@ -12,7 +12,7 @@ TypeScript javascript HTML5 CSS3 Sass Less React Next.js Git Webpack NPM React G
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-red?logo=HTML5&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue?logo=CSS3)
-![Next.js Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Next.js&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/Next.js-282c34?style=flat&logo=Next.js&logoColor=white)
 
 <!--
 **shokoghasemi/shokoghasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
