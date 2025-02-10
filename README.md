@@ -15,7 +15,7 @@ TypeScript javascript HTML5 CSS3 Sass Less React Next.js Git Webpack NPM React G
 ![Next.js Badge](https://img.shields.io/badge/Next.js-282c34?style=flat&logo=Next.js&logoColor=white)
 
 <!--
-**shokoghasemi/shokoghasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sh_gh/sh_gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
